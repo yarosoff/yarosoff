@@ -1,4 +1,4 @@
-Full-Stack & Infrastructure Engineer • Tech Lead
+# Full-Stack & Infrastructure Engineer · Tech Lead
 
 ## Core Stack
 Node.js • Express • Next.js • React • TypeScript • HTML • SASS • PostgreSQL • MongoDB • Redis • WebSockets • REST API • JWT • OAuth
